@@ -1,2 +1,3 @@
 # python
-It's never too late
+It's never too late.  
+Learn how to use GitHub...
